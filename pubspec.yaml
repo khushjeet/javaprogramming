@@ -1,0 +1,73 @@
+name: javaprograming
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.2.0+4
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_pdfviewer: ^21.1.38
+
+
+  cupertino_icons: ^1.0.2
+  dark_light_button: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.0"
+  flutter_lints: ^2.0.1
+
+flutter_icons:
+  android: true
+  image_path: "assets/images/javalogo.png"
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/pdf/basics/1oot.pdf
+    - assets/pdf/basics/2setp.pdf
+    - assets/pdf/basics/3dt.pdf
+    - assets/pdf/basics/4DVar.pdf
+    - assets/pdf/basics/5Op.pdf
+    - assets/pdf/basics/6Dm.pdf
+    - assets/pdf/basics/7Lp.pdf
+    - assets/pdf/basics/8Tc.pdf
+    - assets/pdf/basics/9Ar.pdf
+    - assets/pdf/basics/DCM.docx
+    - assets/pdf/oops/1 Object and class in Java.pdf
+    - assets/pdf/oops/2 Access Modifiers in Java.pdf
+    - assets/pdf/oops/3 Java-Variables types.pdf
+    - assets/pdf/oops/4 When to use static variables and methods.pdf
+    - assets/pdf/oops/5 Constructor.pdf
+    - assets/pdf/oops/6 Constructor Overloading.pdf
+    - assets/pdf/oops/7 Methods.pdf
+    - assets/pdf/oops/8 Method Overloading.pdf
+    - assets/pdf/oops/9 This keyword.pdf
+    - assets/pdf/oops/10 Garbage Collection.pdf
+    - assets/pdf/oops/11 String Class.pdf
+    - assets/pdf/oops/12 Methods of String class.pdf
+    - assets/pdf/oops/13 String Buffer String Builder.pdf
+    - assets/pdf/oops/14 Inheritance in Java.pdf
+    - assets/pdf/oops/15 Dynamic Method Dispatch or Runtime Polymorphism.pdf
+    - assets/pdf/oops/16 Method Overriding.pdf
+    - assets/pdf/oops/17 Super keyword.pdf
+    - assets/pdf/oops/18 Abstraction.pdf
+    - assets/pdf/oops/19 Final keyword.pdf
+    - assets/pdf/oops/20 Packages.pdf
+    - assets/pdf/oops/21 Interface.pdf
+    - assets/pdf/oops/22 Exception Handling in Java.pdf
+    - assets/pdf/oops/23 Hierarchy of Exception classes.pdf
+    - assets/pdf/oops/24 Multithreading in Java.pdf
+    - assets/pdf/oops/25 Synchronization.pdf
+    
+    - assets/images/khush.jpeg
+
+    
